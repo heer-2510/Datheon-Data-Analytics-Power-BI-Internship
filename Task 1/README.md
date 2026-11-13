@@ -53,8 +53,7 @@ The project includes:
 📂 Project Files
 
 - `Datheon Task (1).ipynb` — Python analysis notebook
-- `superstore_sales.csv` — Original dataset
-- `superstore_sales_processed.csv` — Processed dataset
+- `superstore_sales.csv` — Dataset
 
 📚 Learning Outcomes
 
