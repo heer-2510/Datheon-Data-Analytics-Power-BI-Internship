@@ -74,8 +74,11 @@ Through this project, I practiced:
 - Extracting business insights from data
 
 📸 Project Screenshots
+
 📈 Monthly Sales Trend
+
 ![Monthly Sales Trend](monthly-sales.png)
 
 💰 Discount vs Profit Analysis
+
 ![Discount vs Profit](discount-profit.png)
