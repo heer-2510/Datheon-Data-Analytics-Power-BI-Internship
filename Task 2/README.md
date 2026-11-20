@@ -47,7 +47,7 @@ The dashboard provides insights into total sales, total profit, total quantity, 
 
 ### 1. 📊 Overview — Superstore Sales Analysis
 
-![Overview Dashboard](01-overview.png)
+![Superstore Sales Analysis](Superstore%20Sales%20Analysis.png)
 
 The Overview page provides a high-level view of total sales, total profit, total orders, monthly sales trends, regional sales performance, and category-level sales distribution.
 
@@ -55,7 +55,7 @@ The Overview page provides a high-level view of total sales, total profit, total
 
 ### 2. 🌎 Regional Sales & Profitability Analysis
 
-![Regional Dashboard](Regional Sales & Profitability Analysis.png)
+![Regional Sales & Profitability Analysis](Regional%20Sales%20%26%20Profitability%20Analysis.png)
 
 The Regional page focuses on regional performance, including sales and profit by region, state-level performance, and city-wise sales.
 
@@ -63,7 +63,7 @@ The Regional page focuses on regional performance, including sales and profit by
 
 ### 3. 📦 Product Sales & Profitability Analysis
 
-![Product Dashboard](03-product.png)
+![Product Sales & Profitability Analysis](Product%20Sales%20%26%20Profitability%20Analysis.png)
 
 The Product page analyzes category and sub-category performance, including sales, profit, quantity, top sub-categories, and profit margin.
 
