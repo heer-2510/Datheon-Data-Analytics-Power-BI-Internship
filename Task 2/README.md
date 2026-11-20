@@ -45,7 +45,29 @@ The dashboard provides insights into total sales, total profit, total quantity, 
 
 ## 📸 Dashboard Preview
 
-![Product Sales & Profitability Analysis](Datheon%20Task2.png)
+### 1. 📊 Overview — Superstore Sales Analysis
+
+![Overview Dashboard](01-overview.png)
+
+The Overview page provides a high-level view of total sales, total profit, total orders, monthly sales trends, regional sales performance, and category-level sales distribution.
+
+
+
+### 2. 🌎 Regional Sales & Profitability Analysis
+
+![Regional Dashboard](Regional Sales & Profitability Analysis.png)
+
+The Regional page focuses on regional performance, including sales and profit by region, state-level performance, and city-wise sales.
+
+
+
+### 3. 📦 Product Sales & Profitability Analysis
+
+![Product Dashboard](03-product.png)
+
+The Product page analyzes category and sub-category performance, including sales, profit, quantity, top sub-categories, and profit margin.
+
+
 
 ## 📂 Project Files
 
