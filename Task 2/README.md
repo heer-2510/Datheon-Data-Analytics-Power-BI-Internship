@@ -69,10 +69,12 @@ The Product page analyzes category and sub-category performance, including sales
 
 
 
-## 📂 Project Files
+## 📁 Project Files
 
 - `Task 2 Datheon.pbix` — Power BI dashboard
-- `Datheon Task2.png` — Dashboard preview
+- `Superstore Sales Analysis.png` — Dashboard overview
+- `Regional Sales & Profitability Analysis.png` — Regional sales and profitability analysis
+- `Product Sales & Profitability Analysis.png` — Product sales and profitability analysis
 
 ## 📚 Learning Outcomes
 
