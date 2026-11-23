@@ -50,7 +50,6 @@ The project includes analysis of:
 
 ## 📁 Project Files
 
-- `Telco Data.xlsx` — Excel dataset and customer churn analysis
 - `Top Part.png` — Dashboard top section
 - `Bottom Part.png` — Dashboard bottom section
 - `Telco_Customer_Churn_Analysis.xlsx` — Customer churn analysis workbook
