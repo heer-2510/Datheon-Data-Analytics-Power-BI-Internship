@@ -50,10 +50,12 @@ The project includes:
 
 5. **Sales Seasonality:** Monthly sales show stronger performance toward the end of the year, highlighting the importance of seasonal planning.
 
-📂 Project Files
+## 📂 Project Files
 
 - `Datheon Task (1).ipynb` — Python analysis notebook
-- `superstore_sales.csv` — Dataset
+- `superstore_sales.csv` — Superstore sales dataset
+- `discount-profit.png` — Discount vs. Profit analysis visualization
+- `monthly-sales.png` — Monthly sales analysis visualization
 
 📚 Learning Outcomes
 
