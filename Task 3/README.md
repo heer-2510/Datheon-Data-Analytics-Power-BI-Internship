@@ -42,7 +42,11 @@ The project includes analysis of:
 
 ## 📊 Dashboard Preview
 
-![Telco Customer Churn Dashboard](Telco%20Customer%20Churn%20Dashboard.png)
+### Dashboard – Top Section
+![Telco Customer Churn Dashboard - Top Part](Top%20Part.png)
+
+### Dashboard – Bottom Section
+![Telco Customer Churn Dashboard - Bottom Part](Bottom%20Part.png)
 
 ## 📁 Project Files
 
